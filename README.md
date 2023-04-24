@@ -1,6 +1,6 @@
-#Bachelor of Science in Computing
+# Bachelor of Science in Computing
 
-###Software Engineering
+### Software Engineering
 
 ### Year 2022-23 / Semester 2
 
