@@ -113,7 +113,7 @@ Logout: User can be able to logout of his account
 
 e)	Create a Gantt Chart to manage development process.
 
-		Start		End		Week 1	Week 2	Week 3	Week 4
+Start		End		Week 1	Week 2	Week 3	Week 4
 	
 Requirements	03/April/2023	07/April/2023	------	
 
